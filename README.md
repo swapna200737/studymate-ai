@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # StudyMate AI
 
 A responsive B.Tech student study dashboard built with React + Vite (frontend) and Express (backend).
@@ -69,3 +70,7 @@ Express serves the built `dist` frontend and API on the configured port.
 
 ## Important note
 The no-key quiz generator is a demonstration, not a reliable assessment generator. For a college demo, use sample notes or configure the AI key on the backend.
+=======
+# studymate-ai
+AI-powered study assistant for B.Tech students
+>>>>>>> edc7af9d9c3cf08922e0026c60ffcba0db01434c
